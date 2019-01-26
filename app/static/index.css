@@ -1,0 +1,10 @@
+.vm-outline {
+    padding: 1.25rem;
+    border: 1px solid #eee;
+    border-radius: .25rem;
+}
+
+td.shrink {
+    white-space: nowrap;
+    width: 1%;
+}
